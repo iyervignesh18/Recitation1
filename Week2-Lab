@@ -1,0 +1,5 @@
+Student='I am a UB Student'
+print(Student[0])
+print(Student[3])
+print(Student[-2])
+
